@@ -1,0 +1,50 @@
+﻿Hello,
+
+My name is Charles Kuo.
+
+I am a software developer in test with proven success in developing manual and 
+automated test plan / test cases for web-based application, desktop and mobile application. 
+
+Here are highlights of my experience by languages / tools:
+
+JavaScript
+
+· Cypress test integrated with Codeship from CloudBees
+
+· Ppuppeteer.js, chai. cucumber.js integrated with Azure DevOps as part of CD/CI pipeline on VSTS
+
+· Darlek.JS
+
+· Acceptance test with QUnit for Ember JS
+
+C#
+
+· ASP.NET MVC with SpecFlow and Selenium
+
+· API test from HTTP Client integrated with Jenkins with Octopus or Azure DevOps as part of CD/CI pipeline on VSTS
+
+· Performance Test and Load test with VS Enterprise and Jmeter
+
+· Integrated with Azure DevOps as part of CD/CI pipeline on VSTS
+
+Postman
+
+· Restful API test (in JavaScript) as part of CD/CI pipeline on VSTS
+
+Java
+
+· UI test framework (Junit) & Selenium
+
+SQL
+
+· Back end test data query or test data setup via SSMS
+
+ 
+
+Please let me know if you have any question or need more information.
+
+Thank you very much for your time and consideration
+
+ 
+
+Charles Kuo
